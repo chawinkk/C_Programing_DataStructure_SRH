@@ -1,8 +1,6 @@
 //pointer int exsample
 #include <stdio.h>
 
-void mysteryF(int *);
-
 int main()
 {
 	int x=10; //variable declaration
@@ -26,7 +24,3 @@ int main()
 		
 	return 0;
 }
-
-
-// 
-void mysteryF(int *);

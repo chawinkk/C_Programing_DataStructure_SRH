@@ -1,3 +1,4 @@
+//pass by reference
 #include <stdio.h>
 
 // Function prototype

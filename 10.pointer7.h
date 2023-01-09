@@ -1,4 +1,3 @@
-#include <stdio.h>
 // Function definition
 extern int y;
 

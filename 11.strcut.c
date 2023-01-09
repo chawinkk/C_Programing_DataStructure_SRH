@@ -24,7 +24,7 @@ int main()
 	for (int i = 0; i<3; i++){
 		printf("Please enter the followings:\n");
 		printf("Age (int), height(float), name and grade\t\t\t\t");
-		printf("example: 30 168 Chawin\n");
+		// printf("example: 30 168 Chawin\n");
 		scanf("%d%f%s",&BCS11[i].age,&BCS11[i].height,BCS11[i].names);
 	}
 

@@ -10,7 +10,7 @@ int main()
 
 	printf("\nThe value of y in main is = %d\n", y);
 
-	mysteryFunction1(y);  // address of x and value of y, which is 20 supplied to function
+	mysteryFunction1(y);  // value of y, which is 20 supplied to function
 	
 	printf("The NEW value of y in main after the MYSTRYFUNCTION1 call is = %d\n", y);// the value remain 20 not 420 becasue pass by value
 	

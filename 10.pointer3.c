@@ -10,7 +10,8 @@ int main(int argc, char const *argv[])
 	xPtr = &x; //pointer point to xvaraible
 
 
-	float y = 2.5, *yPtr;  // float y = 2.5, *yPtr = &y;
+	float y = 2.5;
+	float *yPtr;  // float y = 2.5, *yPtr = &y;
 	yPtr = &y;
 
 	printf("The content of x in main is = %5d\n", x);
