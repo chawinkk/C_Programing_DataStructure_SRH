@@ -7,7 +7,7 @@
 int main(){
 FILE *fp;
 char str[50];
-fp=fopen("array.txt","r");
+fp=fopen("line.txt","r");
 if(fp==NULL){
    printf("no file");
    exit(1);
