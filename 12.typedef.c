@@ -1,16 +1,19 @@
+//https://www.youtube.com/watch?v=CI9dRTvzgqE
 #include <stdio.h>
 
-struct Students
+
+typedef struct
 {
 	int age;
 	float height;
 	char names[50];
-};
+
+} Students;
 
 
 int main()
 {
-	struct Students BCS11[3];  // Students BCS11[3];  // array of three mean the maximum of student is only 3
+	Students BCS11[3];  // Students BCS11[3];  // array of three mean the maximum of student is only 3
 
 
 	for (int i = 0; i<3; i++){

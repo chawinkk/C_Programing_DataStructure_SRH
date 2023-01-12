@@ -1,0 +1,21 @@
+a
+2
+2.220000
+Chawin
+a
+2
+2.220000
+Chawin
+chawina
+2
+2.220000
+Chawin
+chawina
+2
+2.220000
+Chawin
+chawina
+2
+2.220000
+Chawin
+Factorial is 120
